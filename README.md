@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently working as a research intern at [PKU-DCAI](https://github.com/OpenDCAI) lab and [Tencent SSV](https://ssv.tencent.com/).
+
+My research interests lie in long-horizon agent tasks, including coding agents and deepresearch agents. Recently, I have also been exploring the area of personalized agents and how AI systems can better understand and assist individuals.
+
+Beyond AI agents, I am also interested in exploring interdisciplinary research that connects AI with other fields, particularly AI for Mathematics (AI4Math) and AI for Education (AI4Edu).
+
+I believe AI agents have the potential to bring the benefits of AI to everyone. My long-term vision is to develop affordable, accessible and intelligent AI systems that can seamlessly integrate into people’s daily lives, helping individuals live better lives and ultimately contributing to both human development and human flourishing.
+
+I’m always open to communication and exchanging ideas. If there’s anything I can help with within my abilities, I’d be more than glad to assist. Welcome to get in touch～ 😊
+
 <!--
 **kernel-14/kernel-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
