@@ -4,7 +4,7 @@ Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently w
 
 My research interests lie in long-horizon agent tasks, including coding agents and deepresearch agents. Recently, I have also been exploring the area of personalized agents and how AI systems can better understand, adapt to and assist individual users.
 
-Beyond my research, I am deeply interested in exploring and discussing the opportunities and challenges that AI brings to the world, including its impact on scientific discovery, human knowledge, and society. I hope to explore the broader possibilities of AI and how it can contribute to human progress in diverse fields. My long-term vision is to build accessible and personalized AI systems that genuinely improve people's lives and make the benefits of technological progress available to everyone.
+Beyond my research, I am deeply interested in exploring and discussing the opportunities and challenges that AI brings to the world, including its impact on scientific discovery, human knowledge and society. I hope to explore the broader possibilities of AI and how it can contribute to human progress in diverse fields. My long-term vision is to build accessible and personalized AI systems that genuinely improve people's lives and make the benefits of technological progress available to everyone.
 
 I’m always open to communication and exchanging ideas. If there’s anything I can help with within my abilities, I’d be more than glad to assist. Feel free to reach out～ 😊
 
