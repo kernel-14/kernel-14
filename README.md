@@ -2,13 +2,15 @@
 
 Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently working as a research intern at [PKU-DCAI](https://github.com/OpenDCAI) lab and [Tencent SSV](https://ssv.tencent.com/).
 
-My research interests lie in long-horizon agent tasks, including coding agents and deepresearch agents. Recently, I have also been exploring the area of personalized agents and how AI systems can better understand and assist individuals.
+My research interests lie in long-horizon agent tasks, including coding agents and deepresearch agents. Recently, I have also been exploring the area of personalized agents and how AI systems can better understand, adapt to, and assist individual users.
 
-Beyond AI agents, I am also interested in exploring interdisciplinary research that connects AI with other fields, particularly AI for Mathematics (AI4Math) and AI for Education (AI4Edu).
+Beyond my research, I am deeply interested in exploring and discussing the opportunities and challenges that AI brings to the world, including its impact on scientific discovery, human knowledge, and society. I hope to explore the broader possibilities of AI and how it can contribute to human progress in diverse fields. My long-term vision is to build accessible and personalized AI systems that genuinely improve people's lives and make the benefits of technological progress available to everyone.
 
-I believe AI agents have the potential to bring the benefits of AI to everyone. In the future, I hope to explore more possibilities of AI for human society. My long-term vision is to develop affordable, accessible and intelligent AI systems that can seamlessly integrate into people’s daily lives, helping individuals live better lives and ultimately contributing to both human development and human flourishing.
+I’m always open to communication and exchanging ideas. If there’s anything I can help with within my abilities, I’d be more than glad to assist. Feel free to reach out～ 😊
 
-I’m always open to communication and exchanging ideas. If there’s anything I can help with within my abilities, I’d be more than glad to assist. Welcome to get in touch～ 😊
+📫 Reach me at:
+- Email: kernel14@163.com ｜ kernel0114@gmail.com
+
 
 <!--
 **kernel-14/kernel-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
