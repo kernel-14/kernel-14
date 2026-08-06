@@ -1,12 +1,14 @@
 ## Hi 👋
 
-Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently working as a research intern at [PKU-DCAI](https://github.com/OpenDCAI) lab and [Tencent SSV](https://ssv.tencent.com/).
+Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently working as a research intern at [PKU-DCAI](https://github.com/OpenDCAI) Lab and [Tencent SSV](https://ssv.tencent.com/).
 
-My research interests lie in long-horizon agent tasks, including coding agents and deepresearch agents. Recently, I have also been exploring the area of personalized agents and how AI systems can better understand, adapt to and assist individual users.
+My research focuses on long-horizon AI agents, including coding agents and Deep Research agents. Recently, I have also been exploring personalized agents and how AI systems can better understand and assist individual users.
 
-Beyond my research, I am deeply interested in exploring and discussing the opportunities and challenges that AI brings to the world, including its impact on scientific discovery, human knowledge and society. I hope to explore the broader possibilities of AI and how it can contribute to human progress in diverse fields. My long-term vision is to build accessible and personalized AI systems that genuinely improve people's lives and make the benefits of technological progress available to everyone.
+Outside of my research, I also enjoy thinking about and discussing the opportunities and challenges that AI brings to the world, including its impact on science, engineering and the humanities. I hope to explore how AI can create lasting value for people and society through applications across different fields.
 
-I’m always open to communication and exchanging ideas. If there’s anything I can help with within my abilities, I’d be more than glad to assist. Feel free to reach out～ 😊
+I believe AI should not only make people more productive, but also help people live happier and better lives. My long-term vision is to build affordable, accessible and intelligent AI systems that become part of people's everyday lives, making the benefits of technological progress available to everyone.
+
+I'm always open to communication and exchanging ideas. If there's anything I can help with within my abilities, I'd be more than glad to assist. Feel free to reach out! 😊
 
 📫 Reach me at:
 - Email: kernel14@163.com ｜ kernel0114@gmail.com
