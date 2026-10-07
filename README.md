@@ -1,30 +1,29 @@
 ## Hi 👋
 
-Hi, I’m an M.S. student at the School of Mathematics at BUAA. I am currently working as a research intern at [PKU-DCAI](https://github.com/OpenDCAI) Lab and [Tencent SSV](https://ssv.tencent.com/).
+I’m an M.S. student at the School of Mathematics, Beihang University (BUAA), and a research intern at [PKU-DCAI](https://github.com/OpenDCAI) Lab and [Tencent SSV](https://ssv.tencent.com/).
 
-My research focuses on long-horizon AI agents, including coding agents and Deep Research agents. Recently, I have also been exploring personalized agents and how AI systems can better understand and assist individual users.
+My research focuses on **long-horizon AI agents in the real world**, with three main interests:
 
-Outside of my research, I also enjoy thinking about and discussing the opportunities and challenges that AI brings to the world, including its impact on science, engineering and the humanities. I hope to explore how AI can create lasting value for people and society through applications across different fields.
+- Extracting useful information from complex real-world sources.
+- Coordinating multiple asynchronous tasks, including dependencies and periods of waiting.
+- Simulating complex real-world environments to support reliable agent evaluation.
 
-I believe AI should not only make people more productive, but also help people live happier and better lives. My long-term vision is to build affordable, accessible and intelligent AI systems that become part of people's everyday lives, making the benefits of technological progress available to everyone.
+My previous work has focused on **coding agents**, including their use in scientific tasks and the development pipeline from data synthesis to post-training. At Tencent, I built a memory asset management system that improves over time, exploring how agent memory can support real-world applications in education.
 
-I'm always open to communication and exchanging ideas. If there's anything I can help with within my abilities, I'd be more than glad to assist. Feel free to reach out! 😊
+**My long-term vision is to use AI to expand the boundaries of human knowledge and help people live happier lives.**
 
-📫 Reach me at:
-- Email: kernel14@163.com ｜ kernel0114@gmail.com
+I hope AI can help us discover more about the world, learn more easily, and explore new questions together. Greater access to knowledge can enrich our inner lives and give us more opportunities to understand, experience, and create.
 
+I also care about how AI can improve each person’s well-being. Happiness means different things to different people. Exploring it requires care for people’s feelings, values, and experiences, drawing on perspectives from the humanities. I hope to build affordable, accessible AI systems that bring these benefits into everyday life.
 
-<!--
-**kernel-14/kernel-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In a rapidly changing world, I believe young people should keep asking difficult questions and care deeply about the future we are building.
 
-Here are some ideas to get you started:
+I’m also exploring entrepreneurship, starting with research and education. I’m building tools that I can continue to develop over time, including a **research paper workbench** and an **editable TikZ geometry drawing tool**. If either interests you, I’d love to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I expect to graduate in **2028** and begin my career. If you’re offering a challenging role with meaningful value for society and think I might be a good fit, I’d be happy to talk.
+
+I’m always open to exchanging ideas, collaborating, and helping where I can. Feel free to reach out! 😊
+
+📫 **Reach me at:**
+
+- Email: [kernel14@163.com](mailto:kernel14@163.com) ｜ [kernel0114@gmail.com](mailto:kernel0114@gmail.com)
