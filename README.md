@@ -37,4 +37,4 @@ I expect to graduate in **2028** and am open to challenging career opportunities
 
 I'm always happy to exchange ideas, collaborate on research, or explore interesting projects together. 😊
 
-📫 **Email:** [kernel14@163.com](mailto\:kernel14@163.com) | [kernel0114@gmail.com](mailto\:kernel0114@gmail.com)
+📫 **Email:** [kernel14@163.com](mailto\:kernel14@163.com) 
